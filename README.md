@@ -1,2 +1,4 @@
 # Primer-Repositorio
-Primer repositorio de practica
+ Este es mi Primer repositorio de practica
+Diana Cerros Pulido
+3°B de Programacion truno matutino
